@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+}
+
+header {
+  background-color: gold;
+}
+
+#firstName {
+  color: rgb(0, 255, 213);
+  font-family: serif;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+img {
+  width: 300px;
+  height: 0;
+}
+
+.second {
+  background-color: hsla(83, 59%, 41%, 0.979);
+  border: 5px solid hsl(345, 59%, 41%);
+  text-align: center;
+}
+
+head {
+  background-color: #76a52a;
+}
+
+body {
+  padding: 100px;
+}
