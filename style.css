@@ -1,7 +1,3 @@
-* {
-  margin: 0;
-}
-
 header {
   background-color: gold;
 }
@@ -31,8 +27,4 @@ img {
 
 head {
   background-color: #76a52a;
-}
-
-body {
-  padding: 100px;
 }
